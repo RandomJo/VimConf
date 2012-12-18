@@ -110,6 +110,7 @@ Now open vim - when you do this NeoBundle will ask to install all the plugins li
 * [php](https://github.com/StanAngeloff/php.vim "php")
 * [vim-abolish](https://github.com/tpope/vim-abolish "vim-abolish")
 * [vim-fugitive](https://github.com/tpope/vim-fugitive "vim-fugitive")
+* [vim-nodejs-complete](https://github.com/myhere/vim-nodejs-complete "vim-nodejs-complete")
 * [vim-repeat](https://github.com/tpope/vim-repeat "vim-repeat")
 * [vim-surround](https://github.com/tpope/vim-surround "vim-surround")
 * [YouCompleteMe.git](https://github.com/Valloric/YouCompleteMe.git "YouCompleteMe.git")
