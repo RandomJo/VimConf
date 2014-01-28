@@ -109,6 +109,9 @@
           " \     },
           " \ }
 
+    NeoBundle 'vim-ruby/vim-ruby'
+    NeoBundle 'myhere/vim-nodejs-complete'
+
     " vimproc needs a special build
     NeoBundle 'Shougo/vimproc', {
           \ 'build' : {
