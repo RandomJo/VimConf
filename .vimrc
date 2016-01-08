@@ -122,6 +122,9 @@
           \    },
           \ }
 
+    " editorconfig
+    NeoBundle 'editorconfig/editorconfig-vim'
+
     call neobundle#end()
 
     " the plugin indent needs to be on before neobundle runs...
